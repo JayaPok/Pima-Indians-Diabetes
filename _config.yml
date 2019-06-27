@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 include:
   - README.md
-  - pima_indians_diabetes_prediction.ipynb
+  - pima_indians_diabetes_prediction.html
